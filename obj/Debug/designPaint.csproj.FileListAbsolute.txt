@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\bin\Debug\designPaint.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\obj\Debug\designPaint.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\obj\Debug\designPaint.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\obj\Debug\designPaint.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\obj\Debug\designPaint.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\bin\Debug\designPaint.exe
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\bin\Debug\designPaint.pdb
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\obj\Debug\designPaint.exe
+c:\users\admin\documents\visual studio 2015\Projects\designPaint\designPaint\obj\Debug\designPaint.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\bin\Debug\designPaint.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\obj\Debug\designPaint.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\obj\Debug\designPaint.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\bin\Debug\designPaint.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\bin\Debug\designPaint.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\obj\Debug\designPaint.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\obj\Debug\designPaint.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\obj\Debug\designPaint.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Đồ án\designPaint\designPaint\obj\Debug\designPaint.csproj.GenerateResource.Cache
